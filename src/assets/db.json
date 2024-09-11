@@ -1,0 +1,52 @@
+{
+  "carousel": [
+    {
+      "id": 1,
+      "title": "Auto Diagnose",
+      "imgName": "assets/img/thr.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque enim eget lorem consequat, eget.",
+      "type": "innyTyp"
+    },
+    {
+      "id": 2,
+      "title": "Free Fuel",
+      "imgName": "assets/img/thr1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque enim eget lorem consequat, eget.",
+      "type": "innyTyp"
+    },
+    {
+      "id": 3,
+      "title": "Change tires",
+      "imgName": "assets/img/thr2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque enim eget lorem consequat, eget.",
+      "type": "common"
+    }
+  ],
+  "applications": [],
+  "menu": [
+    {
+      "name": "Home",
+      "url": "home"
+    },
+    {
+      "name": "About",
+      "url": "about"
+    },
+    {
+      "name": "Furnitures",
+      "url": "furnitures"
+    },
+    {
+      "name": "Testimonial",
+      "url": "testimonial"
+    },
+    {
+      "name": "Contact Us",
+      "url": "contact-us"
+    },
+    {
+      "name": "Login/Register",
+      "url": "login-register"
+    }
+  ]
+}

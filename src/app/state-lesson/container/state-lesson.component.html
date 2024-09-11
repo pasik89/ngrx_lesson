@@ -1,0 +1,7 @@
+<p [ngClass]="{ 'red': isParagraphRed$ | async }">state-lesson works!</p>
+
+<pre>
+  {{ menu$ | async | json }}
+</pre>
+
+<button (click)="makeParagraphRed()">czerwone</button>
